@@ -77,9 +77,5 @@ public class java1 {
         System.out.println("四海无闲田，农夫犹饿死。");
         System.out.println("锄禾日当午，汗滴禾下土。");
         System.out.println("谁知盘中餐，粒粒皆辛苦。");
-
-
-
-
     }
 }
