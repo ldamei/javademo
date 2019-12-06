@@ -9,110 +9,79 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/javademo$UsersDemo.ic" NAME="UsersDemo Coverage Results" MODIFIED="1574602352391" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.basic.demo4.*</FILTER>
+    </SUITE>
+  </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="zc16.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/jsedemo/src/com/demo/textdemo1/zc16.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="3" column="4" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="42" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="zc17.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/jsedemo/src/com/demo/textdemo1/zc17.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="3" column="27" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="zc18.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/jsedemo/src/com/demo/textdemo1/zc18.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="zc12.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/jsedemo/src/com/demo/textdemo1/zc12.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="zc13.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/jsedemo/src/com/demo/textdemo1/zc13.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="39">
-              <caret line="3" column="4" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="42" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="zc14.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/jsedemo/src/com/demo/textdemo1/zc14.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" column="15" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="zc15.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/jsedemo/src/com/demo/textdemo1/zc15.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="3" column="42" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="42" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/jsedemo/src/com/java1.java" />
-        <option value="$PROJECT_DIR$/jsedemo/src/com/itdr/java1.java" />
-        <option value="$PROJECT_DIR$/jsedemo/src/com/itdr/java4.java" />
-        <option value="$PROJECT_DIR$/jsedemo/src/com/itdr/java3.java" />
-        <option value="$PROJECT_DIR$/jsedemo/src/com/itdr/java2.java" />
-        <option value="$PROJECT_DIR$/jsedemo/src/com/demo/textdemo/text1.java" />
-        <option value="$PROJECT_DIR$/jsedemo/src/com/demo/textdemo1/text1.java" />
-        <option value="$PROJECT_DIR$/jsedemo/src/com/demo/textdemo1/text2.java" />
-        <option value="$PROJECT_DIR$/jsedemo/src/com/demo/textdemo1/zc.java" />
-        <option value="$PROJECT_DIR$/jsedemo/src/com/demo/textdemo1/zc3.java" />
-        <option value="$PROJECT_DIR$/jsedemo/src/com/demo/textdemo1/zc4.java" />
-        <option value="$PROJECT_DIR$/jsedemo/src/com/demo/textdemo1/zc5.java" />
-        <option value="$PROJECT_DIR$/jsedemo/src/com/demo/textdemo1/zc6.java" />
-        <option value="$PROJECT_DIR$/jsedemo/src/com/demo/textdemo1/zc1.java" />
-        <option value="$PROJECT_DIR$/jsedemo/src/com/demo/textdemo1/zc9.java" />
-        <option value="$PROJECT_DIR$/jsedemo/src/com/demo/textdemo1/zc2.java" />
-        <option value="$PROJECT_DIR$/jsedemo/src/com/demo/textdemo1/zc7.java" />
-        <option value="$PROJECT_DIR$/jsedemo/src/com/demo/textdemo1/zc11.java" />
-        <option value="$PROJECT_DIR$/jsedemo/src/com/demo/textdemo1/zc15.java" />
-        <option value="$PROJECT_DIR$/jsedemo/src/com/demo/textdemo1/zc13.java" />
-        <option value="$PROJECT_DIR$/jsedemo/src/com/demo/textdemo1/zc10.java" />
-        <option value="$PROJECT_DIR$/jsedemo/src/com/demo/textdemo1/zc8.java" />
-        <option value="$PROJECT_DIR$/jsedemo/src/com/demo/textdemo1/zc12.java" />
-        <option value="$PROJECT_DIR$/jsedemo/src/com/demo/textdemo1/zc14.java" />
-        <option value="$PROJECT_DIR$/jsedemo/src/com/demo/textdemo1/zc16.java" />
-        <option value="$PROJECT_DIR$/jsedemo/src/com/demo/textdemo1/zc17.java" />
-        <option value="$PROJECT_DIR$/jsedemo/src/com/demo/textdemo1/zc18.java" />
+        <option value="$PROJECT_DIR$/jsedemo/src/com/itdr/games/fingerguessdemo/service/UserService.java" />
+        <option value="$PROJECT_DIR$/jsedemo/src/com/itdr/games/fingerguessdemo/dao/UserDao.java" />
+        <option value="$PROJECT_DIR$/jsedemo/src/com/itdr/games/fingerguessdemo/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/jsedemo/src/com/itdr/basic/demo2/TextDemo1.java" />
+        <option value="$PROJECT_DIR$/jsedemo/src/com/itdr/basic/demo4/Users.java" />
+        <option value="$PROJECT_DIR$/jsedemo/src/com/itdr/basic/demo4/UsersDemo.java" />
+        <option value="$PROJECT_DIR$/jsedemo/src/com/itdr/basic4/demo3/Student.java" />
+        <option value="$PROJECT_DIR$/jsedemo/src/com/itdr/basic4/demo3/StudentText.java" />
+        <option value="$PROJECT_DIR$/jsedemo/src/com/itdr/games/auctiondemo/pojo/Datas.java" />
+        <option value="$PROJECT_DIR$/jsedemo/src/com/itdr/games/auctiondemo/service/AuctionItemService.java" />
+        <option value="$PROJECT_DIR$/jsedemo/src/com/itdr/games/auctiondemo/controller/AuctionItemController.java" />
+        <option value="$PROJECT_DIR$/jsedemo/src/com/itdr/games/auctiondemo/pojo/AuctionItems.java" />
+        <option value="$PROJECT_DIR$/jsedemo/src/com/itdr/games/auctiondemo/pojo/Users.java" />
+        <option value="$PROJECT_DIR$/jsedemo/src/com/itdr/games/auctiondemo/pojo/Box.java" />
+        <option value="$PROJECT_DIR$/jsedemo/src/com/itdr/games/auctiondemo/pojo/Cart.java" />
+        <option value="$PROJECT_DIR$/jsedemo/src/com/itdr/games/auctiondemo/dao/AuctionItemDao.java" />
+        <option value="$PROJECT_DIR$/jsedemo/src/com/itdr/games/auctiondemo/service/UserService.java" />
+        <option value="$PROJECT_DIR$/jsedemo/src/com/itdr/games/auctiondemo/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/jsedemo/src/com/itdr/games/auctiondemo/dao/UserDao.java" />
+        <option value="$PROJECT_DIR$/jsedemo/src/com/itdr/games/auctiondemo/AuctionText.java" />
+        <option value="$PROJECT_DIR$/jsedemo/src/com/itdr/basic5/demo1/ScannerText.java" />
+        <option value="$PROJECT_DIR$/jsedemo/src/com/itdr/basic5/demo1/Text2.java" />
+        <option value="$PROJECT_DIR$/jsedemo/src/com/itdr/games/planetdemo/PlanetText.java" />
+        <option value="$PROJECT_DIR$/jsedemo/src/com/itdr/games/planetdemo/Constant.java" />
+        <option value="$PROJECT_DIR$/jsedemo/src/com/itdr/basic5/demo1/Text.java" />
+        <option value="$PROJECT_DIR$/jsedemo/src/com/neuedu/solar/demo/MyFrameL.java" />
+        <option value="$PROJECT_DIR$/jsedemo/src/com/itdr/games/planetdemo/MyFrame.java" />
+        <option value="$PROJECT_DIR$/jsedemo/src/com/neuedu/solar/common/FrameUtil.java" />
+        <option value="$PROJECT_DIR$/jsedemo/src/com/neuedu/solar/demo/Text11.java" />
+        <option value="$PROJECT_DIR$/jsedemo/src/com/neuedu/solar/constant/Constant.java" />
+        <option value="$PROJECT_DIR$/jsedemo/src/com/neuedu/solar/demo/Text1.java" />
+        <option value="$PROJECT_DIR$/jsedemo/src/com/neuedu/solar/demo/Gong.java" />
+        <option value="$PROJECT_DIR$/jsedemo/src/com/neuedu/solar/demo/MyFrame.java" />
+        <option value="$PROJECT_DIR$/jsedemo/src/com/neuedu/solar/demo/MyFrame02.java" />
+        <option value="$PROJECT_DIR$/jsedemo/src/com/neuedu/solar/demo/MyFrame03.java" />
+        <option value="$PROJECT_DIR$/jsedemo/src/com/itdr/basic/textdemo4/TianFu.java" />
+        <option value="$PROJECT_DIR$/jsedemo/src/com/itdr/basic/textdemo4/QinHe.java" />
+        <option value="$PROJECT_DIR$/jsedemo/src/com/itdr/basic/textdemo4/Users.java" />
+        <option value="$PROJECT_DIR$/jsedemo/src/com/itdr/basic/textdemo4/Text.java" />
+        <option value="$PROJECT_DIR$/jsedemo/src/com/neuedu/solar/entity/Sun.java" />
+        <option value="$PROJECT_DIR$/jsedemo/src/com/neuedu/solar/entity/Planet.java" />
+        <option value="$PROJECT_DIR$/jsedemo/src/com/neuedu/solar/client/SolarSystem.java" />
+        <option value="$PROJECT_DIR$/jsedemo/src/com/neuedu/solar/common/CommonFrame.java" />
+        <option value="$PROJECT_DIR$/jsedemo/src/com/neuedu/planewar/common/FrameUtil.java" />
+        <option value="$PROJECT_DIR$/jsedemo/src/com/neuedu/planewar/entity/Moveable.java" />
+        <option value="$PROJECT_DIR$/jsedemo/src/com/neuedu/planewar/entity/Drawable.java" />
+        <option value="$PROJECT_DIR$/jsedemo/src/com/neuedu/planewar/constant/Constant.java" />
+        <option value="$PROJECT_DIR$/jsedemo/src/com/neuedu/planewar/entity/PlaneWarObject.java" />
+        <option value="$PROJECT_DIR$/jsedemo/src/com/neuedu/planewar/client/PlaneWarClient.java" />
+        <option value="$PROJECT_DIR$/jsedemo/src/com/neuedu/planewar/common/CommonFrame.java" />
+        <option value="$PROJECT_DIR$/jsedemo/src/com/neuedu/planewar/entity/Plane.java" />
       </list>
     </option>
   </component>
@@ -126,10 +95,10 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="133" />
-    <option name="y" value="197" />
-    <option name="width" value="1684" />
-    <option name="height" value="1025" />
+    <option name="x" value="617" />
+    <option name="y" value="48" />
+    <option name="width" value="1520" />
+    <option name="height" value="1040" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -137,46 +106,36 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="javademo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javademo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javademo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javademo" type="462c0819:PsiDirectoryNode" />
               <item name="jsedemo" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="javademo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jsedemo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="javademo" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="javademo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jsedemo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javademo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jsedemo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="demo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javademo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jsedemo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="demo" type="462c0819:PsiDirectoryNode" />
-              <item name="textdemo1" type="462c0819:PsiDirectoryNode" />
+              <item name="javademo" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="production" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -188,6 +147,25 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\id\javademo\jsedemo\src\com\neuedu\planewar\img\myplane" />
+      <recent name="D:\id\javademo\jsedemo\src\com\neuedu\planewar\img" />
+      <recent name="D:\id\javademo\jsedemo\src\com\neuedu\solar\img" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.basic2.demo2" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.neuedu.planewar.constant" />
+      <recent name="com.neuedu.planewar.common" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\id\javademo\jsedemo\src\com\neuedu\planewar\img\myplane" />
+      <recent name="D:\id\javademo\jsedemo\src\com\neuedu\solar\img" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -201,64 +179,75 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.zc18">
+  <component name="RunManager" selected="Application.PlaneWarClient">
+    <configuration name="MyFrame03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.neuedu.solar.demo.MyFrame03" />
+      <module name="jsedemo" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.neuedu.solar.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="PlaneWarClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.neuedu.planewar.client.PlaneWarClient" />
+      <module name="jsedemo" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.neuedu.planewar.client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="SolarSystem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.neuedu.solar.client.SolarSystem" />
+      <module name="jsedemo" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.neuedu.solar.client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="StudentDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.demo.demo4.StudentDemo" />
+      <module name="jsedemo" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.demo.demo4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Text" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itdr.basic.textdemo4.Text" />
+      <module name="jsedemo" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itdr.basic.textdemo4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Text1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.neuedu.solar.demo.Text1" />
+      <module name="jsedemo" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.neuedu.solar.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-    </configuration>
-    <configuration name="zc12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.demo.textdemo1.zc12" />
-      <module name="jsedemo" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.demo.textdemo1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="zc14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.demo.textdemo1.zc14" />
-      <module name="jsedemo" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.demo.textdemo1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="zc16" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.demo.textdemo1.zc16" />
-      <module name="jsedemo" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.demo.textdemo1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="zc17" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.demo.textdemo1.zc17" />
-      <module name="jsedemo" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.demo.textdemo1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="zc18" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.demo.textdemo1.zc18" />
-      <module name="jsedemo" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.demo.textdemo1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -299,19 +288,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.zc12" />
-      <item itemvalue="Application.zc14" />
-      <item itemvalue="Application.zc16" />
-      <item itemvalue="Application.zc17" />
-      <item itemvalue="Application.zc18" />
+      <item itemvalue="Application.MyFrame03" />
+      <item itemvalue="Application.Text1" />
+      <item itemvalue="Application.SolarSystem" />
+      <item itemvalue="Application.Text" />
+      <item itemvalue="Application.PlaneWarClient" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.zc18" />
-        <item itemvalue="Application.zc17" />
-        <item itemvalue="Application.zc16" />
-        <item itemvalue="Application.zc14" />
-        <item itemvalue="Application.zc12" />
+        <item itemvalue="Application.PlaneWarClient" />
+        <item itemvalue="Application.SolarSystem" />
+        <item itemvalue="Application.Text" />
+        <item itemvalue="Application.Text1" />
+        <item itemvalue="Application.MyFrame03" />
       </list>
     </recent_temporary>
   </component>
@@ -330,74 +319,75 @@
       <workItem from="1573610900103" duration="5289000" />
       <workItem from="1573702695845" duration="804000" />
       <workItem from="1573709832315" duration="19170000" />
+      <workItem from="1573786828911" duration="7777000" />
+      <workItem from="1573893081296" duration="325000" />
+      <workItem from="1573894007203" duration="49000" />
+      <workItem from="1574076598764" duration="2154000" />
+      <workItem from="1574160125888" duration="10915000" />
+      <workItem from="1574211657560" duration="17800000" />
+      <workItem from="1574294524684" duration="27887000" />
+      <workItem from="1574381095054" duration="20560000" />
+      <workItem from="1574471614265" duration="6718000" />
+      <workItem from="1574481325900" duration="10203000" />
+      <workItem from="1574508532282" duration="7172000" />
+      <workItem from="1574560753067" duration="4000" />
+      <workItem from="1574561668504" duration="30663000" />
+      <workItem from="1574641408685" duration="22810000" />
+      <workItem from="1574748186434" duration="10670000" />
+      <workItem from="1574820708281" duration="13471000" />
+      <workItem from="1574902072962" duration="14360000" />
+      <workItem from="1574922728696" duration="1711000" />
+      <workItem from="1574924465861" duration="19221000" />
+      <workItem from="1574986002322" duration="26690000" />
+      <workItem from="1575028428468" duration="273000" />
+      <workItem from="1575035050067" duration="1465000" />
+      <workItem from="1575078822618" duration="37415000" />
+      <workItem from="1575163264260" duration="32311000" />
+      <workItem from="1575245713778" duration="32737000" />
+      <workItem from="1575292262154" duration="6429000" />
+      <workItem from="1575331620454" duration="24720000" />
+      <workItem from="1575419447876" duration="30894000" />
+      <workItem from="1575505515234" duration="32417000" />
+      <workItem from="1575550540216" duration="159000" />
+      <workItem from="1575591389942" duration="16213000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31134000" />
+    <option name="totallyTimeSpent" value="497327000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="107" y="158" width="1347" height="820" extended-state="0" />
+    <frame x="494" y="39" width="1216" height="832" extended-state="0" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32882884" />
-      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32142857" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info id="Image Layers" order="2" />
-      <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.34684685" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info id="Capture Tool" order="2" />
-      <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1613654" />
-      <window_info anchor="right" id="Database" order="3" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" order="2" />
-      <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
-    </layout>
-    <layout-to-restore>
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3377193" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13941018" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info id="UI Designer" order="4" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="right" id="Database" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.23746313" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Designer" order="3" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24525043" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.2876304" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
-      <window_info id="Capture Tool" order="5" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32882884" />
-      <window_info anchor="right" id="Maven Projects" order="8" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-    </layout-to-restore>
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32448378" />
+    </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -407,201 +397,328 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="1" />
+      <option name="time" value="136" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/jsedemo/src/com/itdr/java4.java">
+    <entry file="file://$PROJECT_DIR$/jsedemo/src/com/itdr/games/auctiondemo/dao/AuctionItemDao.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" column="2" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="2" />
+        <state relative-caret-position="436">
+          <caret line="80" column="20" lean-forward="true" selection-start-line="80" selection-start-column="20" selection-end-line="80" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/jsedemo/src/com/itdr/java2.java">
+    <entry file="file://$PROJECT_DIR$/jsedemo/src/com/itdr/games/auctiondemo/controller/UserController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+        <state relative-caret-position="148">
+          <caret line="41" column="8" lean-forward="true" selection-start-line="41" selection-start-column="8" selection-end-line="41" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/jsedemo/src/com/itdr/java1.java">
+    <entry file="file://$PROJECT_DIR$/jsedemo/src/com/itdr/games/auctiondemo/service/UserService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1482">
-          <caret line="78" column="43" selection-start-line="78" selection-start-column="43" selection-end-line="78" selection-end-column="43" />
+        <state relative-caret-position="-23">
+          <caret line="64" column="8" lean-forward="true" selection-start-line="64" selection-start-column="8" selection-end-line="64" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/jsedemo/src/com/java1.java" />
-    <entry file="file://$PROJECT_DIR$/jsedemo/src/com/itdr/java1.java">
+    <entry file="file://$PROJECT_DIR$/jsedemo/src/com/itdr/games/auctiondemo/dao/UserDao.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1482">
-          <caret line="78" column="43" selection-start-line="78" selection-start-column="43" selection-end-line="78" selection-end-column="43" />
+        <state relative-caret-position="288">
+          <caret line="166" column="37" lean-forward="true" selection-start-line="166" selection-start-column="37" selection-end-line="166" selection-end-column="37" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/jsedemo/src/com/itdr/java4.java">
+    <entry file="file://$PROJECT_DIR$/jsedemo/src/com/itdr/games/auctiondemo/pojo/Cart.java" />
+    <entry file="file://$PROJECT_DIR$/jsedemo/src/com/itdr/basic5/demo1/Text2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+        <state relative-caret-position="447">
+          <caret line="86" column="35" lean-forward="true" selection-start-line="86" selection-start-column="35" selection-end-line="86" selection-end-column="35" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/jsedemo/src/com/itdr/java3.java">
+    <entry file="file://$PROJECT_DIR$/jsedemo/src/com/itdr/games/planetdemo/Constant1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
-          <folding>
-            <element signature="e#82#83#0" expanded="true" />
-            <element signature="e#117#118#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="96">
+          <caret line="3" column="51" selection-start-line="3" selection-start-column="51" selection-end-line="3" selection-end-column="51" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/jsedemo/src/com/itdr/java2.java">
+    <entry file="file://$PROJECT_DIR$/jsedemo/src/com/itdr/games/planetdemo/PlanetText.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" column="26" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/jsedemo/src/com/demo/textdemo1/text2.java">
+    <entry file="file://$PROJECT_DIR$/jsedemo/src/com/itdr/games/planetdemo/MyFrame.java" />
+    <entry file="file://$PROJECT_DIR$/jsedemo/src/com/neuedu/solar/demo/MyFrameL.java" />
+    <entry file="file://$PROJECT_DIR$/jsedemo/src/com/neuedu/solar/demo/Text11.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_162/src.zip!/java/lang/Thread.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+        <state relative-caret-position="-246">
+          <caret line="745" column="16" selection-start-line="745" selection-start-column="16" selection-end-line="745" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/jsedemo/src/com/demo/textdemo1/text1.java">
+    <entry file="file://$PROJECT_DIR$/jsedemo/src/com/neuedu/solar/constant/Constant.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="31" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="31" />
+        <state relative-caret-position="286">
+          <caret line="11" column="48" lean-forward="true" selection-start-line="11" selection-start-column="48" selection-end-line="11" selection-end-column="48" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/jsedemo/src/com/demo/textdemo1/zc1.java">
+    <entry file="file://$PROJECT_DIR$/jsedemo/src/com/neuedu/solar/demo/Gong.java" />
+    <entry file="file://$PROJECT_DIR$/jsedemo/src/com/neuedu/solar/demo/Text1.java" />
+    <entry file="file://$PROJECT_DIR$/jsedemo/src/com/neuedu/solar/demo/MyFrame.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="23" lean-forward="true" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+        <state relative-caret-position="192">
+          <caret line="68" column="24" lean-forward="true" selection-start-line="68" selection-start-column="24" selection-end-line="68" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/jsedemo/src/com/demo/textdemo1/zc2.java">
+    <entry file="file://$PROJECT_DIR$/jsedemo/src/com/neuedu/solar/demo/MyFrame02.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="38" lean-forward="true" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
+        <state relative-caret-position="256">
+          <caret line="17" column="19" lean-forward="true" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/jsedemo/src/com/demo/textdemo1/zc3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="42" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="42" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/jsedemo/src/com/neuedu/solar/img/09.Pluto.png">
+      <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/jsedemo/src/com/demo/textdemo1/zc4.java">
+    <entry file="file://$PROJECT_DIR$/jsedemo/src/com/itdr/basic/textdemo2/LJText.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="4" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jsedemo/src/com/demo/textdemo1/zc5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jsedemo/src/com/demo/textdemo1/zc6.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="40" lean-forward="true" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jsedemo/src/com/demo/textdemo1/zc7.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="12" lean-forward="true" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jsedemo/src/com/demo/textdemo1/zc8.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jsedemo/src/com/demo/textdemo1/zc9.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="41" selection-start-line="6" selection-start-column="41" selection-end-line="6" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jsedemo/src/com/demo/textdemo1/zc10.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
+        <state relative-caret-position="64">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/jsedemo/src/com/demo/textdemo1/zc11.java">
+    <entry file="file://$PROJECT_DIR$/jsedemo/src/com/itdr/basic/textdemo2/Users.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="39" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
+        <state relative-caret-position="64">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/jsedemo/src/com/demo/textdemo1/zc12.java">
+    <entry file="file://$PROJECT_DIR$/jsedemo/src/com/itdr/basic2/demo2/Users.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        <state relative-caret-position="64">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/jsedemo/src/com/demo/textdemo1/zc13.java">
+    <entry file="file://$PROJECT_DIR$/jsedemo/src/com/itdr/basic/textdemo4/Users.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="39">
-          <caret line="3" column="4" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="42" />
+        <state relative-caret-position="224">
+          <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/jsedemo/src/com/demo/textdemo1/zc14.java">
+    <entry file="file://$PROJECT_DIR$/jsedemo/src/com/itdr/basic2/demo2/RuneText.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="15" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
+        <state relative-caret-position="256">
+          <caret line="10" column="18" lean-forward="true" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/jsedemo/src/com/demo/textdemo1/zc15.java">
+    <entry file="file://$PROJECT_DIR$/jsedemo/src/com/itdr/basic2/demo1/UsersTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="42" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="42" />
+        <state relative-caret-position="192">
+          <caret line="6" column="35" lean-forward="true" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/jsedemo/src/com/demo/textdemo1/zc16.java">
+    <entry file="file://$PROJECT_DIR$/jsedemo/src/com/itdr/basic5/demo1/Text.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="4" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="42" />
+        <state relative-caret-position="32">
+          <caret line="46" column="40" lean-forward="true" selection-start-line="46" selection-start-column="40" selection-end-line="46" selection-end-column="40" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/jsedemo/src/com/demo/textdemo1/zc17.java">
+    <entry file="file://$PROJECT_DIR$/jsedemo/src/com/itdr/games/auctiondemo/AuctionText.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="27" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
+        <state relative-caret-position="-1664">
+          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/jsedemo/src/com/demo/textdemo1/zc18.java">
+    <entry file="file://$PROJECT_DIR$/jsedemo/src/com/itdr/basic/textdemo4/Text.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+        <state relative-caret-position="460">
+          <caret line="16" column="26" lean-forward="true" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jsedemo/src/com/itdr/basic/textdemo4/TianFu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="6" column="45" selection-start-line="6" selection-start-column="45" selection-end-line="6" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jsedemo/src/com/itdr/basic/textdemo4/QinHe.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_162/src.zip!/javax/imageio/ImageIO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="1387" selection-start-line="1387" selection-end-line="1387" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jsedemo/src/com/neuedu/solar/common/FrameUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="15" column="34" lean-forward="true" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jsedemo/src/com/neuedu/solar/img/04.Mars.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jsedemo/src/com/neuedu/solar/img/05.Jupiter.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jsedemo/src/com/neuedu/solar/demo/MyFrame03.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="91">
+          <caret line="19" column="37" lean-forward="true" selection-start-line="19" selection-start-column="37" selection-end-line="19" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jsedemo/src/com/neuedu/solar/entity/Sun.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="12" column="14" lean-forward="true" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jsedemo/src/com/neuedu/solar/img/bj.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jsedemo/src/com/neuedu/solar/img/bj1.jpg" />
+    <entry file="file://$PROJECT_DIR$/jsedemo/src/com/neuedu/solar/entity/Planet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="858">
+          <caret line="70" column="5" lean-forward="true" selection-start-line="70" selection-start-column="5" selection-end-line="70" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jsedemo/src/com/neuedu/solar/common/CommonFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jsedemo/src/com/neuedu/planewar/game.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jsedemo/src/com/neuedu/solar/client/SolarSystem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-736">
+          <caret line="25" column="56" lean-forward="true" selection-start-line="25" selection-start-column="56" selection-end-line="25" selection-end-column="56" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/planewar/common/FrameUtil.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jsedemo/src/com/neuedu/planewar/client/PlaneWarClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#832#833#0" expanded="true" />
+            <element signature="e#885#886#0" expanded="true" />
+            <element signature="e#958#959#0" expanded="true" />
+            <element signature="e#1011#1012#0" expanded="true" />
+            <element signature="e#563#564#0" expanded="true" />
+            <element signature="e#585#586#0" expanded="true" />
+            <element signature="e#160#161#0" expanded="true" />
+            <element signature="e#195#196#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jsedemo/src/com/neuedu/planewar/common/CommonFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="62" column="33" selection-start-line="62" selection-start-column="33" selection-end-line="62" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jsedemo/src/com/neuedu/planewar/common/FrameUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="332">
+          <caret line="21" column="1" lean-forward="true" selection-end-line="21" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jsedemo/src/com/neuedu/planewar/constant/Constant.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="332">
+          <caret line="14" column="1" lean-forward="true" selection-end-line="14" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jsedemo/src/com/neuedu/planewar/entity/PlaneWarObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="27" column="5" lean-forward="true" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jsedemo/src/com/neuedu/planewar/entity/Plane.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="89" column="1" lean-forward="true" selection-start-line="89" selection-start-column="1" selection-end-line="89" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_162/src.zip!/java/awt/event/MouseEvent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1258">
+          <caret line="196" column="7" selection-start-line="196" selection-start-column="7" selection-end-line="196" selection-end-column="7" />
+          <folding>
+            <element signature="e#34497#34498#0" expanded="true" />
+            <element signature="e#34521#34522#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jsedemo/src/com/neuedu/planewar/entity/Drawable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jsedemo/src/com/neuedu/planewar/entity/Moveable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
@@ -662,6 +779,7 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>

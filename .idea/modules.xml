@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/jsedemo/jsedemo.iml" filepath="$PROJECT_DIR$/jsedemo/jsedemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/planewar.iml" filepath="$PROJECT_DIR$/planewar.iml" />
     </modules>
   </component>
 </project>
